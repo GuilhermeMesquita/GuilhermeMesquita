@@ -11,6 +11,7 @@
   <img align="center" alt="grocha-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="grocha-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="grocha-angular" height="30" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
+  <img align="center" alt="grocha-angular" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img align="center" alt="grocha-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="grocha-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="grocha-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
