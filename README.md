@@ -8,7 +8,7 @@
 
 #### Languages and Tools:
 <div style="display: inline_block">
-  <img align="center" alt="grocha-totvs" height="30" width="40" src="https://github.com/file-icons/icons/blob/master/svg/TOTVS.svg">
+  <img align="center" alt="grocha-totvs" height="30" width="30" src="https://github.com/file-icons/icons/blob/master/svg/TOTVS.svg">
   <img align="center" alt="grocha-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="grocha-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="grocha-angular" height="30" width="40" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
